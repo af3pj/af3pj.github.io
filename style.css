@@ -1,0 +1,28 @@
+/*
+
+selector {
+	
+	property: value;
+	property: value;
+}
+
+*/
+
+body {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #4548B2;
+	background-color: #BAB94E;
+	width: 70%;
+	max-width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+/* ID selector */
+#contact {
+
+	color: #FFA343;
+	background-color: #000000;
+
+}
